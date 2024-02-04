@@ -1,0 +1,31 @@
+* {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: green;
+}
+
+h3 {
+    color: orange;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+ol li {
+    color: brown;
+}
+
+p {
+    font-weight: 700;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
