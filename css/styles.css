@@ -3,12 +3,25 @@
 }
 
 h1 {
+    display: block;
     background-color: burlywood;
     color: purple;
     text-align: center;
+    margin: 16px auto;
+    padding: 8px;
+    border: 2px rebeccapurple dashed;
 }
 
 ul li {
     background-color: burlywood;
     color: rebeccapurple;
+    margin-bottom: 8px;
+    border: 3px orange dotted;
+}
+
+a {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: black;
 }
