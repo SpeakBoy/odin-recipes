@@ -5,23 +5,32 @@
 
 h1 {
     color: green;
+    padding: 10px;
 }
 
 h3 {
-    color: orange;
+    color: brown;
 }
 
 h1,
 h3 {
     text-align: center;
+    background-color: goldenrod;
 }
 
 ol li {
     color: brown;
 }
 
-p {
+p,
+ul li,
+ol li {
     font-weight: 700;
+    font-family: "Times New Roman", Times, serif;
+    padding: 8px;
+    background-color: sandybrown;
+    border: 2px black double;
+    margin: 8px;
 }
 
 img {
