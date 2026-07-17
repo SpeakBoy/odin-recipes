@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+h1,
+h2 {
+    padding: 8px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid maroon;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    padding: 8px;
+}
+
+.list {
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 2px dotted black;
+    margin: 0 8px;
+}
